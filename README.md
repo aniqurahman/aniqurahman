@@ -63,7 +63,7 @@ I have architected and delivered mission-critical platforms for major enterprise
 | :--- | :--- |
 | **Cloud & Containers** | <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,bash" /> |
 | **Data Streaming & DB** | <img src="https://skillicons.dev/icons?i=kafka,redis,mongodb,postgres" /> |
-| **Observability & AI** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" /> *+ n8n, Gemini CLI, Lovable* |
+| **Observability & AI** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" /> |
 | **Languages & FW** | <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino" /> |
 
 ---
@@ -86,8 +86,6 @@ I started my career as a **Firmware Engineer** and still enjoy getting hands-on 
 <div align="center">
 
 ### Let's Connect
-
-📧 **[aniqurrahman@outlook.com](mailto:aniqurrahman@outlook.com)**
 
 *Open to networking on Cloud Architecture, IoT Strategy, and Digital Transformation.*
 

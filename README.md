@@ -1,38 +1,128 @@
-<h1 align="center">Hi 👋, I'm Aniq ur Rahman</h1>
-<h3 align="center">IoT & Cloud Expert ready to take on your next IoT project.</h3>
-</br>
+# Hi, I am Aniq ur Rahman 👋  
+### Building reliable IoT, cloud, and data platforms that power real world systems
 
-- 🔭 I’m currently working on **IoT Device Integration & Azure Cloud**
+I am a senior technology leader working across IoT platforms, Azure cloud architecture, DevOps, digital twins, and telemetry driven product improvement. Over the past eight plus years I have helped ship and operate large scale platforms for Vodafone Qatar, DU UAE, Elaraby Egypt, and Zenath Dubai, with systems handling millions of daily events and strict uptime expectations. :contentReference[oaicite:0]{index=0}  
 
-- 🌱 I’m currently learning **ML based NLP to detect fakenews**
+---
 
-- 💬 Ask me about **IoT Devices, Azure Cloud & Cost projections**
+## What I do  
 
-- ⚡ Fun fact **I love to repair broken electronic devices**
+- IoT device integration and Azure cloud architecture  
+  Event driven platforms using IoT Hub, Kafka, AKS, Redis, managed databases, and full observability  
 
-- 👨‍💻 Checkout my portfolio [aniqurrahman.com](aniqurrahman.com)
+- Digital twins and smart building systems  
+  End to end platforms with occupancy, energy, device health, alarms, and maps for facilities teams  
 
-- 📝 I regularly write newsletters on [substack](https://aniqurrahman.substack.com/)
+- DevOps, reliability, and automation  
+  CI CD, AKS modernization, environment strategy, Grafana and Prometheus monitoring, SRE style uptime and incident response  
 
-- 📫 Reach me out on **aniqurrahman@outlook.com**
+- Product strategy and telemetry insights  
+  Turning device and user behavior into better UX, higher engagement, and stronger business KPIs  
 
+- Cloud cost modeling and TCO planning  
+  Helping teams plan, optimize, and scale responsibly on Azure
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+## Currently exploring  
 
+- AI copilots for engineers and operators  
+  Using tools such as GitHub Copilot and Gemini to shorten feedback loops across infra, code, and data  
 
+- AI native digital twins  
+  Connecting real time telemetry with large language models to create narrative style insights and copilots for smart buildings and IoT platforms  
 
-<h3 align="left">Connect with me:</h3>
+- AIOps and intelligent alerting  
+  Building pipelines where alerts, runbooks, and remediation actions are enriched and suggested by AI rather than raw dashboards only  
+
+- Secure multi tenant architectures  
+  Hardening and governing Azure based IoT and data platforms that serve multiple enterprise tenants with clear isolation and cost visibility  
+
+- Productizing platforms  
+  Turning once off projects into repeatable offerings with clear packaging, pricing guidance, and onboarding journeys  
+
+---
+
+## Ask me about  
+
+- IoT device integration and connectivity patterns  
+- Azure cloud and microservices on AKS  
+- Kafka, Redis, PostgreSQL, MongoDB in event driven systems  
+- Observability, uptime, and SRE practices  
+- Cloud cost projections and FinOps conversations  
+- Digital twins and telemetry driven UX  
+
+---
+
+## Fun fact  
+
+I still enjoy repairing broken electronics and reverse engineering hardware whenever I can get my hands on it.
+
+---
+
+## Portfolio and writing  
+
+- Portfolio  
+  [aniqurrahman.com](https://aniqurrahman.com)  
+
+- Newsletter on Substack  
+  https://aniqurrahman.substack.com/  
+
+---
+
+## Education  
+
+- Master of Science in Computer Engineering  
+  University of Engineering and Technology Taxila, Pakistan  
+  Focus on digital design with a thesis in machine learning  
+
+- Bachelor of Science in Computer Engineering  
+  COMSATS Islamabad, Pakistan :contentReference[oaicite:1]{index=1}  
+
+---
+
+## Contact  
+
+You can reach me on  
+
+- Email  
+  aniqurrahman@outlook.com  
+
+Always happy to discuss remote work, consulting engagements, and tough platform problems.
+
+---
+
+## Languages and tools  
+
 <p align="left">
-<a href="https://twitter.com/aniqurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniqurahman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniqurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniqurrahman" height="30" width="40" /></a>
-<a href="https://instagram.com/aniqurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniqurahman" height="30" width="40" /></a>
-<a href="https://medium.com/@aniqurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aniqurahman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aniqurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniqurrahman" height="30" width="40" /></a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
+<a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
+<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
+<a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></a>
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 </p>
 
+---
 
+## Connect with me  
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aniqurahman&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aniq's github stats" /></a> | <a href="https://github.com/aniqurahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqurahman&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="left">
+<a href="https://twitter.com/aniqurahman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
+<a href="https://linkedin.com/in/aniqurrahman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+<a href="https://instagram.com/aniqurahman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
+<a href="https://medium.com/@aniqurrahman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/></a>
+<a href="https://www.hackerrank.com/aniqurrahman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
+</p>
+
+---
+
+## GitHub stats  
+
+| <img src="https://github-readme-stats.vercel.app/api?username=aniqurahman&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqurahman&layout=compact&theme=dark&hide_border=true" /> |
+|---|---|
